@@ -1,0 +1,20 @@
+{
+  "name": "Whisky Tracker",
+  "short_name": "Whisky",
+  "start_url": ".",
+  "display": "standalone",
+  "background_color": "#1a1a1a",
+  "theme_color": "#1a1a1a",
+  "icons": [
+    {
+      "src": "https://cdn-icons-png.flaticon.com/512/3737/3737372.png",
+      "sizes": "192x192",
+      "type": "image/png"
+    },
+    {
+      "src": "https://cdn-icons-png.flaticon.com/512/3737/3737372.png",
+      "sizes": "512x512",
+      "type": "image/png"
+    }
+  ]
+}
